@@ -1,0 +1,13 @@
+pandas
+pyarrow
+openpyxl
+requests
+unidecode
+rapidfuzz
+scikit-learn
+sentence-transformers
+faiss-cpu
+anthropic
+streamlit
+python-docx
+pdfplumber
